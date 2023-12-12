@@ -8,7 +8,6 @@ public class TesteArrei {
 		inicio.number1 = 5;
 		inicio.number2 = 7;
 		
-		System.out.println(inicio.array2d);
 
 	}
 
