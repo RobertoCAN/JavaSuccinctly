@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
-
+//teste
 public class CalculadoraSwing extends JFrame implements ActionListener {
 
 	private final JTextField visor; // field text for show the numbers and results
